@@ -1,5 +1,6 @@
 # 2-D-Discrete-Fourier-Transform
-ECE 6122 Final Project
+ECE 6122 Final Project.
+
 Read FinalProject.pdf for details
 
 The project folder p3 has the following directory structure:
